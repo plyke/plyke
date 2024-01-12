@@ -1,0 +1,71 @@
+.1_2 { 
+	overflow:hidden;
+}.e1_2 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:308px;
+	height:555px;
+	position:absolute;
+}.e1_3 { 
+	color:rgba(0, 0, 0, 1);
+	width:134px;
+	height:15px;
+	position:absolute;
+	left:87px;
+	top:73px;
+	font-family:Inter;
+	text-align:left;
+	font-size:12px;
+	letter-spacing:0;
+}.e1_8 { 
+	color:rgba(0, 0, 0, 1);
+	width:26px;
+	height:7px;
+	position:absolute;
+	left:136px;
+	top:92px;
+	font-family:Inter;
+	text-align:left;
+	font-size:6px;
+	letter-spacing:0;
+}.e1_4 { 
+	border-radius:500px;
+	background-color:rgba(142.44850426912308, 30.838339626789093, 30.838339626789093, 1);
+	width:46px;
+	height:46px;
+	position:absolute;
+	left:36px;
+	top:120px;
+}.e1_5 { 
+	border-radius:500px;
+	background-color:rgba(77.67686069011688, 150.12316524982452, 33.274293914437294, 1);
+	width:46px;
+	height:46px;
+	position:absolute;
+	left:97px;
+	top:120px;
+}.e1_6 { 
+	border-radius:500px;
+	background-color:rgba(232.65377908945084, 212.09458708763123, 27.061881870031357, 1);
+	width:46px;
+	height:46px;
+	position:absolute;
+	left:158px;
+	top:120px;
+}.e1_7 { 
+	border-radius:500px;
+	background-color:rgba(81.5738707780838, 183.0601930618286, 226.55433118343353, 1);
+	width:46px;
+	height:46px;
+	position:absolute;
+	left:226px;
+	top:120px;
+}.e1_9 { 
+	width:77px;
+	height:40px;
+	position:absolute;
+	left:116px;
+	top:29px;
+	background-image:url(images/plyke_logo_1.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
